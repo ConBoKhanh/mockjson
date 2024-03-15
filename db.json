@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "data": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "duybb69@gmail.com",
+      "title": "Nguyen Khanh Duy",
+      "content":"hello Duy tôi sang web bạn chơi này",
+      "image" :"https://s3-sgn10.fptcloud.com/fsel/Images/z5248875190964_3b04ae6fe249d0267fdffab4efdb95f8_1710411288.jpg"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+ 
 }
